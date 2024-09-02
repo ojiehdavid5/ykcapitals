@@ -1,0 +1,38 @@
+header{
+    padding: 20px ; 
+    display:flex; 
+    justify-content:space-between ; 
+    align-items: center;
+    position:fixed;
+    top:0; 
+    /* width: 1280px; */
+    padding-top: 25px;
+}
+
+.logo{
+    margin-left: 5rem;
+    width: 7%;
+}
+header span{
+    display: flex;
+    gap:3rem;
+    margin-right: 5rem;
+}
+.menu{
+    display: none;
+}
+@media(max-width:1000px){
+    header{
+        height: 4rem;
+    }
+    .logo{
+        width: 30%;
+        margin-left: 0;
+    }
+    header span{
+        display: none;
+    }
+    .menu{
+        display:flex
+    }
+}

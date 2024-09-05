@@ -12,6 +12,7 @@ const header = () => {
     <img src={Logo} className=' logo' />
     <span className='header-content'>
       <p>About us</p>
+      
       <p>Contact us</p>
       
       

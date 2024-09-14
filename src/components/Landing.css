@@ -84,6 +84,7 @@
     align-items: center;
     justify-items: center;
 
+
     
 }
 .wrapper .main .image button p{ 
@@ -93,6 +94,7 @@
     /* left:3rem; */
     font-size:1rem;
     font-weight: 400;
+    position: relative;
 }
 
 .image2{

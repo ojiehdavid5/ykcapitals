@@ -9,7 +9,7 @@ import X from "../assets/x.png"
 const Landing = () => {
   return (
 
-    <div className="wrapper ">
+    <div className="wrapper  ">
       <Header/>
       <div className='main'> 
         <div className=" text">

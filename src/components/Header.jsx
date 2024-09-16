@@ -12,7 +12,16 @@ const header = () => {
     <img src={Logo} className=' logo' />
     <span className='header-content'>
       <p>About us</p>
+      
       <p>Contact us</p>
+      
+      
+      
+      
+      
+      
+      
+      
     </span>
      {/* <Button icon="pi pi-arrow-right"   /> */}
      <AlignJustify  onClick={() => setVisibleRight(true)} className='menu' />

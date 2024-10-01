@@ -17,10 +17,14 @@
 .main{
     display: flex;
     flex-direction: column;
+
     margin-top: 9rem;
+
     gap: 2rem;
+
     justify-content: center;
     align-items: center;
+
 
 }
 
@@ -47,8 +51,11 @@
     /* position: relative;
     right: 3rem; */
     margin-top: 1rem;
+    
 
 }
+
+
 .image{
     display: flex;
     flex-direction: column;
